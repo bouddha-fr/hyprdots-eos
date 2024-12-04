@@ -11,6 +11,7 @@
             "(.*) — Dolphin": "$1 󰉋",
             "(.*)Spotify": "Spotify 󰓇",
             "(.*)Steam": "Steam 󰓓"
+            "(.*)Discord": "Discord "
         },
         "max-length": 50
     },
